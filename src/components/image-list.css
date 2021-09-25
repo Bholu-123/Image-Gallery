@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 5px 10px 18px #888888;
+    border: 1px solid black;
+}
+
+.content{
+    padding: 4px 6px;
+}
+
+.heading{
+    color: black;
+}
