@@ -1,0 +1,12 @@
+.searchForm{
+    width: 70%;
+    margin: 20px auto;
+}
+
+.searchBar{
+    width: 100%;
+    border: none;
+    outline: none;
+    border: 2px solid black;
+    padding: 5px 5px;
+}
